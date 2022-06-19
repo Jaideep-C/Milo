@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711225625151",
+    "firebase_url": "https://milo-e67f7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "milo-e67f7",
+    "storage_bucket": "milo-e67f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711225625151:android:a5a0bd6458fdab64aec68a",
+        "android_client_info": {
+          "package_name": "com.milo.milo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711225625151-dfakk5vv346rdc929l3v81vah8m9pbim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9Ea7P8unsUMGnUvDIzFZWZc7IoGQV4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711225625151-dfakk5vv346rdc929l3v81vah8m9pbim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711225625151-be4rt776i3gdfjlhue5qjj024hm8e99d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.milo.milo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
