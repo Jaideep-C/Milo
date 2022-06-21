@@ -18,7 +18,7 @@ Here is the link to the [youtube demo](https://www.youtube.com/watch?v=DqebOWyLQ
 ```
 
  - User CRUD
- - Patients can see all the available ambulances in a given peri-pheri
+ - Patients can see all the available ambulances in a given periphery
  - Drivers can see all the emergency cases around them
  - If permited by the patient then the ambulance driver would have access to the patients medical profile who he is going to pick up.
  - Patients have the option to add multiple medical profiles of their close which would be helpful in few cases.
